@@ -1,6 +1,8 @@
 # Images_Userway
 
+
 const imgAltScanner = () => {
+
     const images = document.getElementsByTagName("img");
 
     const clickHandler = (el) => {
